@@ -1,2 +1,2 @@
 def new_func():
-    print("NEW")
+    print("OLD")
